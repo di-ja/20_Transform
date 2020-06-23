@@ -25,8 +25,7 @@ div {
 }
 div:hover {
     transform: rotate(20deg);
-    background: rgba(20, 50, 140, 0.5);
-
+    transform: scale(1.5);
 }
 .eins {
     background: url(http://source.unsplash.com/random/-1) center/cover no-repeat;
